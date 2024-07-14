@@ -8,4 +8,4 @@
 
 说明：抢购失败会一直刷票，刷回流票，当有回流票时会自动锁单，能够刷余票，实现余票监控
 
-视频演示：
+使用视频演示：https://www.bilibili.com/video/BV1m5b7etEHE/?vd_source=90b79f4e7308af8ab2c6d89efd20aa03
